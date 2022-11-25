@@ -1,6 +1,6 @@
 # CS 725 : Course Project
 
-#Project Title: 2DFP (2D building footprint) Extraction using Aerial LiDAR Point cloud
+## Project Title: 2DFP (2D building footprint) Extraction using Aerial LiDAR Point cloud
 
 Authors of this project: Deekshant Kumar(22D1595), Sona Elza Simon(22D1591), Apurva Dhingra(22D1592), Sarvesh Gharat(22D1593) and Sandhya(213040056).
 
