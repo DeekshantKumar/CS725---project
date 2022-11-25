@@ -8,6 +8,27 @@ This project was done as part of CS 725 course at IIT Bombay.
 
 Abstract: In this project, aerial LiDAR points are used to extract 2D footprints and are visualized on the base map. Various Machine Learning algorithms were experimented to extract the building points from the raw data. Different clustering algorithms like K-Means and DBSCAN were explored to convert LiDAR points into optimal building clusters. Algorithms like Convex Hull and Alpha Shape are explored to extract the footprints by converting the clusters into polygons.
 
+### Dataset Used: Netherland Lidar Data
+
+### Libraries Used:
+
+1. Open Street Maps
+2. GeoPandas
+3. Pandas
+4. Numpy
+5. Torch
+6. Geemap (map view)
+7. Laspy (lidar points)
+8. Rasterio
+9. Kepler GL (interactive map)
+10. Sklearn (SVC, GNB, RF, DT)
+11. Keras
+12. KMeans, DBSCAN
+13. ConvexHull,Alpha Shape
+14. torch
+15. keplergl
+
+
 ### Table of Contents:
 #### 1. Implementation of various ML algorithms :
 	
