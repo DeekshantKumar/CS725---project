@@ -1,4 +1,4 @@
-#CS 725 : Course Project
+# CS 725 : Course Project
 
 #Project Title: 2DFP (2D building footprint) Extraction using Aerial LiDAR Point cloud
 
