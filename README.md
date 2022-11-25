@@ -15,21 +15,21 @@ Abstract: In this project, aerial LiDAR points are used to extract 2D footprints
 	
 	Dataset location : Dataset/classification.csv
 	
-2. Implementation of GAN :
+#### 2. Implementation of GAN :
 	
 	Code: CS_725_GAN.ipynb 
 	
 	Dataset location : Dataset/GAN_input.csv
 
-3. Implementation of K-Means and Convex Hull  :
+#### 3. Implementation of K-Means and Convex Hull  :
 	
 	Code: CS_725_Experimentation_using_Kmeans,_Convex_Hull.ipynb 
 	
-	Dataset location : Dataset/lidar.csv
+	Dataset location : Dataset/lidar_points.csv
 
-4. Final Footprint Extracation Model :
+#### 4. Final Footprint Extracation Model :
 	
 	Code: CS_725_Lidar_Project.ipynb 
 	
-	Dataset location : Dataset/classification.csv
+	Dataset location : Dataset/C_37EZ1_7415_sample.las
 
