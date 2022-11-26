@@ -33,7 +33,7 @@ Abstract: In this project, aerial LiDAR points are used to extract 2D footprints
 
 #### 1. Implementation of various ML algorithms :
 	
-##### Code: CS_725_ML_classification.ipynb 
+##### 	Code: CS_725_ML_classification.ipynb 
 	
 	Dataset location : Dataset/classification.csv
 	
