@@ -52,7 +52,7 @@ Abstract: In this project, aerial LiDAR points are used to extract 2D footprints
 #### 4. Final Footprint Extracation Model :
 	The below code contains the final model:
 	- LiDAR point classification using ANN
-	- Clustering buildings using Convex Hull
+	- Clustering buildings using DBSCAN
 	- Footprint extraction using Alpha Shape
 	
 	Code: CS_725_Lidar_Project.ipynb
