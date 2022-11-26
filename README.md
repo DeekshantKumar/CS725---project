@@ -8,7 +8,7 @@ This project was done as part of CS 725 course at IIT Bombay.
 
 Abstract: In this project, aerial LiDAR points are used to extract 2D footprints and are visualized on the base map. Various Machine Learning algorithms were experimented to extract the building points from the raw data. Different clustering algorithms like K-Means and DBSCAN were explored to convert LiDAR points into optimal building clusters. Algorithms like Convex Hull and Alpha Shape are explored to extract the footprints by converting the clusters into polygons.
 
-### Dataset Used: Netherland Lidar Data
+### Dataset Used: [Netherland Lidar Data](Dataset/C_37EZ1_7415_sample.las)
 
 ### Libraries Used:
 
@@ -33,29 +33,29 @@ Abstract: In this project, aerial LiDAR points are used to extract 2D footprints
 
 #### 1. Implementation of various ML algorithms :
 	
-##### 	Code: CS_725_ML_classification.ipynb 
+	Code: CS_725_ML_classification.ipynb 
 	
 	Dataset location : Dataset/classification.csv
 	
-## 2. Implementation of GAN :
+#### 2. Implementation of GAN :
 	
 	Code: CS_725_GAN.ipynb 
 
 	Dataset location : Dataset/GAN_input.csv
 
-## 3. Implementation of K-Means and Convex Hull  :
+#### 3. Implementation of K-Means and Convex Hull  :
 	
 	Code: CS_725_Experimentation_using_Kmeans,_Convex_Hull.ipynb 
 	
 	Dataset location : Dataset/lidar_points.csv
 
-## 4. Final Footprint Extracation Model :
+#### 4. Final Footprint Extracation Model :
 	The below code contains the final model:
 	- LiDAR point classification using ANN
 	- Clustering buildings using Convex Hull
 	- Footprint extraction using Alpha Shape
 	
-	Code: [CS_725_Lidar_Project.ipynb](CS_725_Lidar_Project.ipynb) to view the final model.
+	Code: CS_725_Lidar_Project.ipynb
 
 	Dataset location : Dataset/C_37EZ1_7415_sample.las
 	
