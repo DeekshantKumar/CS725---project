@@ -54,7 +54,7 @@ Abstract: In this project, aerial LiDAR points are used to extract 2D footprints
 	- Clustering buildings using Convex Hull
 	- Footprint extraction using Alpha Shape
 	
-	**Run the file CS_725_Lidar_Project.ipynb to view the final model.**
+	###Run the file CS_725_Lidar_Project.ipynb to view the final model.
 	
 	Dataset location : Dataset/C_37EZ1_7415_sample.las
 
