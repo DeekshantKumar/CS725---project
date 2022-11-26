@@ -58,5 +58,5 @@ Abstract: In this project, aerial LiDAR points are used to extract 2D footprints
 	
 	Dataset location : Dataset/C_37EZ1_7415_sample.las
 	
-__Run the file CS_725_Lidar_Project.ipynb to view the final model.__
+___Run the file CS_725_Lidar_Project.ipynb to view the final model.___
 
