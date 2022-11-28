@@ -39,7 +39,7 @@ Abstract: In this project, aerial LiDAR points are used to extract 2D footprints
 	
 #### 2. Implementation of GAN :
 	
-	Code: CS_725_GAN.ipynb 
+	Code: CS_725_GAN_LiDAR.ipynb 
 
 	Dataset location : Dataset/GAN_input.csv
 
